@@ -1,0 +1,6 @@
+{
+  "name": "AI Photo Motion",
+  "description": "Log in to securely manage projects and preferences. Upload a photo and prompt the AI to generate motion effects and animations over custom durations, saving your work securely.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
